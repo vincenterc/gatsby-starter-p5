@@ -1,6 +1,6 @@
 {
-  "name": "p5js-starter",
-  "description": "A starter template for p5.js",
+  "name": "gatsby-starter-p5",
+  "description": "A starter for Gatsby.js with p5.js.",
   "version": "0.1.0",
   "scripts": {
     "develop": "gatsby develop",
