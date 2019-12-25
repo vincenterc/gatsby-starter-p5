@@ -1,4 +1,4 @@
 module.exports = {
-  pathPrefix: '/p5js-starter',
+  pathPrefix: '/gatsby-starter-p5',
   plugins: [`gatsby-plugin-react-helmet`, `gatsby-plugin-styled-components`],
 }
